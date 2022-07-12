@@ -41,3 +41,7 @@ Binder, F., Diels, J., Balling, J., Albrecht, O., Sachunsky, R., Philipp, J. N.,
 You may be interested in our [full report](https://git.informatik.uni-leipzig.de/smarthec/doc-abschlussbericht) for the Smart_HEC project (in German).
 
 Bibtex-Citations for publications from the Smart_HEC project are available via [smarthec_publikationen.bib](https://git.informatik.uni-leipzig.de/smarthec/doc-abschlussbericht/-/blob/main/smarthec_publikationen.bib)
+
+# Acknowledgements
+
+This research was supported by the German Federal Ministry of Justice and Consumer Protection (BMJV) under grants no. 28V2304A19, 28V2304B19, 28V2304C19, 28V2304D19. Partial contributions were funded by the German Federal Ministry of Education and Research (BMBF) under grant no. 01IS20091B, and by the Development Bank of Saxony (SAB) under project number 100335729.
