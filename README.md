@@ -33,6 +33,6 @@ Binder, F., Diels, J., Balling, J., Albrecht, O., Sachunsky, R., Philipp, J. N.,
 
 # See also
 
-You may be interested in our [full report](../doc-abschlussbericht/) for the Smart_HEC project (in German).
+You may be interested in our [full report](smarthec/doc-abschlussbericht>) for the Smart_HEC project (in German).
 
-Bibtex-Citations for publications from the Smart_HEC project are available via [smarthec_publikationen.bib](../doc-abschlussbericht/smarthec_publikationen.bib)
+Bibtex-Citations for publications from the Smart_HEC project are available via [smarthec_publikationen.bib](smarthec/doc-abschlussbericht>/smarthec_publikationen.bib)
