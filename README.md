@@ -11,6 +11,11 @@ https://2022.hci.international/
 
 For any inquiries regarding the slides, please contact Frank Binder via lastname@infai.org.
 
+# Download
+
+You can view and download the slides for your personal use [here](Smart_HEC_HCII_Slides_final_pdf.pdf).  
+Kindly note that all rights are reserved, please inquire if you would like to use the material in any way.
+
 # Citation
 
 Binder, F., Diels, J., Balling, J., Albrecht, O., Sachunsky, R., Philipp, J. N., Scheurer, Y., Münsch, M., Otto, M., Niekler, A., Heyer, G., Thorun, C.: Putting Users in the Loop: How User Research Can Guide AI Development for a Consumer-Oriented Self-service Portal. In: Rauterberg, M. (ed.) Culture and Computing. pp. 3–19. Springer International Publishing (2022). https://doi.org/10.1007/978-3-031-05434-1_1.
