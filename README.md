@@ -1,10 +1,10 @@
-# Doc HCII2022 Slides
+# HCII 2022 Slides
 
 Slides to our talk on  
-*Putting Users in the Loop: How User Research Can Guide AI Development for a Consumer-Oriented Self-service Portal*  
-at the Panel "AI-in-the-loop - Reconfiguring HCI for AI development",  
-at  *Culture and Computing - 10th International Conference, C&C 2022*,  
-Held as Part of the *24th HCI International Conference, HCII 2022*.  
+**Putting Users in the Loop: How User Research Can Guide AI Development for a Consumer-Oriented Self-service Portal**  
+at the Panel ["AI-in-the-loop - Reconfiguring HCI for AI development"](https://www.dwise.uni-hamburg.de/aktuelles/aktuelle-meldungen/2022-06-24-hcii2022.html),  
+at  *[Culture and Computing - 10th International Conference, C&C 2022](https://2022.hci.international/c&c)*,  
+Held as Part of the *[24th HCI International Conference, HCII 2022](https://2022.hci.international/)*.  
 https://2022.hci.international/
 
 # Contact
